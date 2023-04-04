@@ -1,4 +1,4 @@
-*** MySQL (https://www.mysql.com/)
+***MySQL*** (https://www.mysql.com/)
 
 "MySQL is an open-source networked relational database management system. 
 MySQL is a structured data model. It stores the data in tables and it supports SQL as the primary query language.
