@@ -3,6 +3,6 @@
 * [Oracle: oracle.md](https://github.com/KG0797/HW0-datamodels/blob/main/oracle.md)
 * [OrientDB: orientdb.md](https://github.com/KG0797/HW0-datamodels/blob/main/orientdb.md)
 * [MySQL: mysql.md](https://github.com/KG0797/HW0-datamodels/blob/main/mysql.md)
-*
+* [Maria: maria.md](https://github.com/KG0797/HW0-datamodels/blob/main/maria.md)
 *
 *
